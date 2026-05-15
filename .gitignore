@@ -1,0 +1,32 @@
+# --- CONFIGURACIONES DEL EDITOR ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# --- ARCHIVOS DE SISTEMA ---
+Thumbs.db
+.DS_Store
+*.log
+
+# --- JAVASCRIPT / NODE ---
+node_modules/
+/dist/
+.env
+.env.local
+
+# --- JAVA ---
+*.class
+*.jar
+*.war
+*.ear
+/target/
+.metadata/
+.classpath
+.project
+.settings/
+bin/
+ 
