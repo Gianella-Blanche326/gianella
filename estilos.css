@@ -55,3 +55,13 @@ li {
 .project-link { 
     background-color: #28a745; 
 }
+/* Estilos exclusivos para el botón de WhatsApp */
+.whatsapp-button {
+    background-color: #25D366 !important; /* Verde de WhatsApp */
+    color: #FFFFFF !important;            /* Texto blanco */
+}
+
+.whatsapp-button:hover {
+    background-color: #20BA5A !important; /* Verde más oscuro al pasar el mouse */
+    color: #FFFFFF !important;
+}
